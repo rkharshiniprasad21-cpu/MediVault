@@ -1,0 +1,6 @@
+{
+  "name": "MediVault - Minimal Healthcare System",
+  "description": "A minimal, modern healthcare platform connecting administrators, doctors, nurses, and patients with seamless record management and role-based workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
